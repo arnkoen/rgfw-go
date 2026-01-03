@@ -1,6 +1,6 @@
 # RGFW-Go
 
-WIP Go bindings for [RGFW](https://github.com/ColleagueRiley/RGFW). Partially machine generated.
+WIP Go bindings for [RGFW](https://github.com/ColleagueRiley/RGFW). Partially machine generated, use with care.
 
 **Available build tags:**
 - `opengl` - OpenGL support
